@@ -1,0 +1,7 @@
+venv/
+path/
+dataExtractedKafka/
+logs
+plugins
+.env
+word2vec_model/
